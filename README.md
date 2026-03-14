@@ -136,7 +136,7 @@ print("Median Fare:", df['fare'].median())
 # Output
 
 A. Data Understanding
-
+![.](Screenshot%202026-03-14%20142423.png)
 
 B. Categorical Variable Analysis
 <img width="954" height="661" alt="Screenshot 2026-02-13 113709" src="https://github.com/user-attachments/assets/ce167896-4dd9-41f9-bb6e-c67e39aa0c61" />
